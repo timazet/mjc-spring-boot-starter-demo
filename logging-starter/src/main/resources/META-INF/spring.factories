@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.epam.demo.logging.starter.autoconfigure.LoggingAutoConfiguration
